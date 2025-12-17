@@ -21,3 +21,9 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+
+# Gemini
+GEMINI.md
+
+# Articles (local only)
+articles/
