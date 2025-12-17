@@ -2,6 +2,8 @@
 
 A simple MCP server for rolling dice in TTRPG sessions.
 
+English | [日本語](README_ja.md)
+
 ## Features
 
 - **xDy format dice rolling**: Roll any number of dice with any number of sides
@@ -88,4 +90,4 @@ Target: 10
 
 ## License
 
-ISC
+MIT
