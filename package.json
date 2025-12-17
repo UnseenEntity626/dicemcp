@@ -1,0 +1,25 @@
+{
+  "name": "dicemcp",
+  "version": "1.0.0",
+  "description": "ダイスを振るMCPサーバー",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "dicemcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["mcp", "dice", "ttrpg"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
