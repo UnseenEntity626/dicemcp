@@ -14,7 +14,7 @@ English | [日本語](README_ja.md)
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/dicemcp.git
+git clone https://github.com/UnseenEntity626/dicemcp.git
 cd dicemcp
 npm install
 npm run build
